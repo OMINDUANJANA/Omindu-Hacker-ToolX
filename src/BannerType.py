@@ -20,25 +20,25 @@ op=int(raw_input("TeRMuxBannER: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerPoison.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBannerPoison.sh")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerPuffy.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBannerPuffy.sh")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerAvatar.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBannerAvatar.sh")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerBloody.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBannerBloody.sh")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerModular.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBannerModular.sh")
 elif(op==6):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBannerRusto.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBannerRusto.sh")
 elif(op==7):
  os.system("clear")
- os.system("cd && cd AllHackingTools && bash src/CreateTermuxBanner.sh")
+ os.system("cd && cd Omindu-Hacker-ToolX && bash src/CreateTermuxBanner.sh")
 elif(op==8):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
@@ -46,5 +46,5 @@ else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd AllHackingTools")
+ os.system("cd Omindu-Hacker-ToolX")
  os.system("python2 Files/TermuxS.py")
