@@ -30,7 +30,7 @@ sleep 2
 clear
 cd
 cd
-cd AllHackingTools
-mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/Tool
+cd Omindu-Hacker-ToolX
+mv MainMenu.py /data/data/com.termux/files/home/Omindu-Hacker-ToolX/Tool
 clear
 python3 .check/Configuration.py
