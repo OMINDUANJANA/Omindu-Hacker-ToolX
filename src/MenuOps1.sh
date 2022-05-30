@@ -21,8 +21,8 @@ echo '
     [NOTICE] Other Tools  ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣
   [ 18 ] >> Other tools:  -  Separate and other tools for hacking
   [ 19 ] >> Terminal Panel:  -  Termux control and special features
-  [ 20 ] >> System Settings:  -  AllHackingTools control and special features
-  [ 21 ] >> System License:  -  View the license in AllHackingTools
+  [ 20 ] >> System Settings:  -  Omindu-Hacker-ToolX control and special features
+  [ 21 ] >> System License:  -  View the license in Omindu-Hacker-ToolX
   [ 22 ] >> Update System:  -  Update system and all tools & menu and more utilitys
   [ 23 ] >> About System:  -  View system information and developer
-  [ 24 ] >> Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 3.2
+  [ 24 ] >> Exit System:  -  Log out of the Omindu-Hacker-ToolX system '|lolcat -p 3.2
