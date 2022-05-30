@@ -7,17 +7,17 @@ C = '\033[36m'
 W = '\033[0m' 
 
 # Secret folders
-path1 = "/data/data/com.termux/files/home/AllHackingTools/.logs/"
-path2 = "/data/data/com.termux/files/home/AllHackingTools/.settings/"
-path3 = "/data/data/com.termux/files/home/AllHackingTools/.temp/"
-path4 = "/data/data/com.termux/files/home/AllHackingTools/.check/"
+path1 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/.logs/"
+path2 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/.settings/"
+path3 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/.temp/"
+path4 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/.check/"
 
 # No secret folders
-path5 = "/data/data/com.termux/files/home/AllHackingTools/Files/"
-path6 = "/data/data/com.termux/files/home/AllHackingTools/src/"
-path7 = "/data/data/com.termux/files/home/AllHackingTools/Tool/"
-path8 = "/data/data/com.termux/files/home/AllHackingTools/Themes/"
-path9 = "/data/data/com.termux/files/home/AllHackingTools/Castom/"
+path5 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/Files/"
+path6 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/src/"
+path7 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/Tool/"
+path8 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/Themes/"
+path9 = "/data/data/com.termux/files/home/Omindu-Hacker-ToolX/Castom/"
 
 # check folders
 if os.path.exists(path1):
@@ -29,7 +29,7 @@ if os.path.exists(path1):
                         if os.path.exists(path7):
                             if os.path.exists(path8):
                                 if os.path.exists(path9):
-                                    os.system("cd && cd AllHackingTools && cd src && bash starterUp.sh")
+                                    os.system("cd && cd Omindu-Hacker-ToolX && cd src && bash starterUp.sh")
                                 else:
                                     print(R + '[-] ' + C + 'Error code: 106 DNS server refused to connect')
                                     print(R + '[-] ' + C + 'Error code: 404 Not Found! No system folder')
