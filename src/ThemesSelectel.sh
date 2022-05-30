@@ -71,7 +71,7 @@ else
                                 sleep 0.3
                                 echo ""
                                 cd
-                                cd AllHackingTools
+                                cd Omindu-Hacker-ToolX
                                 bash Themes/Materia.sh
                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                         else
@@ -81,7 +81,7 @@ else
                                         sleep 0.3
                                         echo ""
                                         cd
-                                        cd AllHackingTools
+                                        cd Omindu-Hacker-ToolX
                                         bash Themes/Material.sh
                                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                 else
@@ -91,7 +91,7 @@ else
                                                 sleep 0.3
                                                 echo ""
                                                 cd
-                                                cd AllHackingTools
+                                                cd Omindu-Hacker-ToolX
                                                 bash Themes/Smyck.sh
                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                         else
@@ -101,7 +101,7 @@ else
                                                         sleep 0.3
                                                         echo ""
                                                         cd
-                                                        cd AllHackingTools
+                                                        cd Omindu-Hacker-ToolX
                                                         bash Themes/Dracula.sh
                                                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                 else
@@ -111,13 +111,13 @@ else
                                                                 sleep 0.3
                                                                 echo ""
                                                                 cd
-                                                                cd AllHackingTools
+                                                                cd Omindu-Hacker-ToolX
                                                                 bash Themes/Twilight.sh
                                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                         else
                                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Invalid input! Reloading Option"
                                                                 sleep 1.5
-                                                                cd && cd AllHackingTools && bash src/ThemesSelectel.sh
+                                                                cd && cd Omindu-Hacker-ToolX && bash src/ThemesSelectel.sh
                                                         fi
                                                 fi
                                         fi
