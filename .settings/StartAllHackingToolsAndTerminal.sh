@@ -9,7 +9,7 @@ cd Tool
 cp zshrc /data/data/com.termux/files/usr/etc/
 cd
 cd
-echo "cd && cd AllHackingTools && python2 MainMenu.py" > sTa4t.txt
+echo "cd && cd Omindu-Hacker-ToolX && python2 MainMenu.py" > sTa4t.txt
 cat "sTa4t.txt" >> /data/data/com.termux/files/usr/etc/zshrc
 rm -rf sTa4t.txt
 cd
