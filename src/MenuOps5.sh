@@ -40,9 +40,9 @@ echo '
    ├ Termux control and special features
   [SKIP]┐
       ┌[20] >> System Settings:  -  AllHackingTools control and special features
-      │[21] >> System License:  -  View the license in AllHackingTools
+      │[21] >> System License:  -  View the license in Omindu-Hacker-ToolX
   [-]─┘[22] >> Update System:  -  Update system and all tools & menu 
        [23] >> About System:  -  View system information and developer
-       [24] >> Exit System:  -  Log out of the AllHackingTools system 
-       [25] >> Log Out Terminal  -  Log out in AllHackingTools And Terminal'|lolcat -p 4.6
+       [24] >> Exit System:  -  Log out of the Omindu-Hacker-ToolX system 
+       [25] >> Log Out Terminal  -  Log out in Omindu-Hacker-ToolX And Terminal'|lolcat -p 4.6
 
