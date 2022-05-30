@@ -5,7 +5,7 @@ import random
 import sys
 
 os.system("clear")
-os.system("cd && cd AllHackingTools")
+os.system("cd && cd Omindu-Hacker-ToolX")
 os.system("bash Logo.sh")
 os.system("bash src/MenuA.sh")
 
@@ -20,13 +20,13 @@ op=int(raw_input("Options: "))
 
 if(op==1):
  os.system("cd")
- os.system("cd AllHackingTool && bash src/Inf.sh")
+ os.system("cd Omindu-Hacker-ToolX && bash src/Inf.sh")
  os.system("python2 MainMenu.py")
 elif(op==2):
  print("\033[1;31;40mRebooting system...")
  time.sleep(0.7)
  os.system("cd")
- os.system("cd AllHackingTools")
+ os.system("cd Omindu-Hacker-ToolX")
  os.system("bash src/AllHackingTool.sh")
 elif(op==3):
  print("\033[1;31;40mQuiting system...")
@@ -36,6 +36,6 @@ else:
  print("\033[1;31;40mInvalid input. Back To MainMenu...")
  time.sleep(1)
  os.system("cd")
- os.system("cd AllHackingTool")
+ os.system("cd Omindu-Hacker-ToolX")
  os.system("python2 MainMenu.py")
  
